@@ -74,6 +74,9 @@ build-ai-that-sees/
 - Record a short demo video and prepare a presentation
 
 ---
+## 🎥 Demo Video
+[Watch the demo](buil-ai-that-sees.mp4)
+---
 
 ## 📊 Example Outputs
 - Training & validation accuracy/loss curves
