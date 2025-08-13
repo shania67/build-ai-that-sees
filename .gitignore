@@ -1,0 +1,49 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# ===== Jupyter Notebooks =====
+.ipynb_checkpoints/
+
+# ===== Data & Models =====
+data/
+datasets/
+*.csv
+*.tsv
+*.zip
+*.tar
+*.gz
+*.npz
+models/
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# ===== Logs & Temp Files =====
+logs/
+*.log
+*.out
+*.tmp
+
+# ===== Secrets / Config =====
+.env
+*.json
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
